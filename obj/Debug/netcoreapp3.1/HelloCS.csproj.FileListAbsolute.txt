@@ -1,0 +1,10 @@
+/Users/grace/Documents/VisualStudioCode/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.deps.json
+/Users/grace/Documents/VisualStudioCode/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.runtimeconfig.json
+/Users/grace/Documents/VisualStudioCode/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.runtimeconfig.dev.json
+/Users/grace/Documents/VisualStudioCode/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.dll
+/Users/grace/Documents/VisualStudioCode/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.pdb
+/Users/grace/Documents/VisualStudioCode/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.csprojAssemblyReference.cache
+/Users/grace/Documents/VisualStudioCode/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.AssemblyInfoInputs.cache
+/Users/grace/Documents/VisualStudioCode/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.AssemblyInfo.cs
+/Users/grace/Documents/VisualStudioCode/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.dll
+/Users/grace/Documents/VisualStudioCode/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.pdb
